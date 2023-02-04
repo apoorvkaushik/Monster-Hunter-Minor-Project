@@ -1,4 +1,4 @@
-#Introduction to Monster Hunter:
+#Introduction to Monster Hunter
 
 Monster Hunter is a game for minor project created by Apoorv
 Kaushik(TPO2104003). Monster Hunter is programmed in C Programming
@@ -14,7 +14,7 @@ several target platforms, including Windows, Linux, macOS, FreeBSD,
 Android, Raspberry Pi and HTML5.
 
 
-#How to play:
+#How to play
 
 In this game the simple task of player is to defeat the monsters with
 different moves that the player has. Game mechanics is very simple if a
